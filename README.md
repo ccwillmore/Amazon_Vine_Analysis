@@ -15,7 +15,7 @@ In Python the the data are filtered to reviews that received 20 or more votes an
 There are 1,207 paid Vine reviews that meet the criteria.  
 ![paid Vine reviews](paid_Vine_summary_data.png)  
 There are 97,839 unpaid Vine reviews that meet the criteria.  
-![unpaid Vine reviews](unpaid_Vine_summary_data)  
+![unpaid Vine reviews](unpaid_Vine_summary_data.png)  
   
 2. How many reviews of each are 5 star?  
 Unpaid:  45,858  
